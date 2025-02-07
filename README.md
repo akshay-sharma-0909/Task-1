@@ -23,4 +23,7 @@ Javascript: JavaScript is used to implement interactive features like location s
 language used  HTML ,CSS ,JAVASCRIPT
 
 
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/1559687c-0321-4e9b-b721-c0b9605d8269)
+
 
